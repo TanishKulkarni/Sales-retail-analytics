@@ -18,19 +18,19 @@ Which products and countries are driving the most revenue?
 
 The analysis is based on the Online Retail.xlsx dataset, which contains transactional data for a UK-based online retailer. The dataset includes key fields such as:
 
-InvoiceNo: Unique identifier for each transaction.
+**InvoiceNo:** Unique identifier for each transaction.
 
-Description: Product name.
+**Description:** Product name.
 
-Quantity: Number of units sold.
+**Quantity:** Number of units sold.
 
-InvoiceDate: Date and time of the transaction.
+**InvoiceDate:** Date and time of the transaction.
 
-UnitPrice: Price per unit.
+**UnitPrice:** Price per unit.
 
-CustomerID: Unique identifier for each customer.
+**CustomerID:** Unique identifier for each customer.
 
-Country: Country of the customer.
+**Country:** Country of the customer.
 
 **🛠️ Tools & Technologies**
 
@@ -42,12 +42,12 @@ Power BI Desktop: Used for data modeling, visualization, and dashboard creation.
 
 The final dashboard includes the following key visualizations and interactive components:
 
-Card Visualizations: Displaying high-level KPIs: Total Revenue, Total Unique Customers, and Average Order Value.
+**Card Visualizations:** Displaying high-level KPIs: Total Revenue, Total Unique Customers, and Average Order Value.
 
-Monthly Sales Trend (Line Chart): Showing revenue performance over time.
+**Monthly Sales Trend (Line Chart):** Showing revenue performance over time.
 
-Top Products & Countries (Bar Charts): Highlighting the top-performing products and countries by revenue.
+**Top Products & Countries (Bar Charts):** Highlighting the top-performing products and countries by revenue.
 
-Geographical Map: Visualizing revenue distribution by country with bubble sizes representing the revenue amount.
+**Geographical Map:** Visualizing revenue distribution by country with bubble sizes representing the revenue amount.
 
-Slicers: Allowing users to filter the dashboard by Invoice Date, Country, and Description to explore data dynamically.
+**Slicers:** Allowing users to filter the dashboard by Invoice Date, Country, and Description to explore data dynamically.
